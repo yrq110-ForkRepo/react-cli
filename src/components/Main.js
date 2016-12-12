@@ -7,7 +7,7 @@ class AppComponent extends React.Component {
     return (
       <div className="index">
         <img src={BingyanLogo} alt="冰岩作坊出品" />
-        <div className="notice">测试</div>
+        <div className="notice">让 react 的使用体验跟 vue 一样舒适</div>
       </div>
     );
   }
